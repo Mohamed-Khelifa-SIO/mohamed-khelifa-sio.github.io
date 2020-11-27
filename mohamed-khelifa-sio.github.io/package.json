@@ -1,0 +1,19 @@
+{
+  "name": "mohamed-khelifa-sio.github.io",
+  "version": "1.0.0",
+  "description": "Mon CV sur GitHub",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Khelifa-SIO/mohamed-khelifa-sio.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Khelifa-SIO/mohamed-khelifa-sio.github.io/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Khelifa-SIO/mohamed-khelifa-sio.github.io#readme"
+}
